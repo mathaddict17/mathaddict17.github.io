@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background: #333;
+    background: #000c0f;
     color: #fff;
     padding: 1rem;
     text-align: center;
@@ -31,7 +31,7 @@ ul li {
 }
 
 a {
-    color: #333;
+    color: #000c0e;
     text-decoration: none;
 }
 
